@@ -8,3 +8,14 @@ clang/host/linux-x86/clang-r383902/lib64/liblldb.so filter=lfs diff=lfs merge=lf
 clang/host/linux-x86/clang-r383902/lib64/libclang.so.11git filter=lfs diff=lfs merge=lfs -text
 clang/host/linux-x86/clang-r383902/lib64/liblldb.so.11git filter=lfs diff=lfs merge=lfs -text
 clang/host/linux-x86/clang-r383902/lib64/libclang_cxx.so.11git filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/lib/liblldb.so filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/lib/libLLVM-18.so filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/lib/libclang.so filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/lib/libclang-cpp.so filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/lib/libLTO.so filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/bin/clang-scan-deps filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/bin/clang-check filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/bin/lld filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/bin/clang-18 filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/bin/llvm-bolt filter=lfs diff=lfs merge=lfs -text
+clang/host/linux-x86/clang-r510928/musl/lib/libclang.so filter=lfs diff=lfs merge=lfs -text
